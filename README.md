@@ -1,0 +1,3 @@
+# Isso é um mini test com o git
+
+Arara makerspace testando o git com a galera...
