@@ -1,5 +1,5 @@
 #Config files
-Here I'll specify who will have to start working and stop smoking weed
+ohhhhhhhh yeeeeeeeeeeeeeeeeeeaaaaaaaaah!!
 
 ## Header -> batatinha (gsuis)
 ## body -> manao
