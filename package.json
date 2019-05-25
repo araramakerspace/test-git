@@ -1,0 +1,23 @@
+{
+  "name": "test-git",
+  "version": "1.0.0",
+  "description": "VAMO VMAO VMAO VMOA Arara makerspace testando o git com a galera...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/araramakerspace/test-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/araramakerspace/test-git/issues"
+  },
+  "homepage": "https://github.com/araramakerspace/test-git#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "nodemon": "^1.19.1"
+  }
+}
